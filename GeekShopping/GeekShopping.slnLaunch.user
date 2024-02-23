@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "GeekShopping.Web\\GeekShopping.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
