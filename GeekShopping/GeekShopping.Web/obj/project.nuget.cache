@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZdGIg2hrB1JZjdhGap4Fw1p1RM06xi84JQu4eIXAF83Nf4a9MsoNlFwwlkOogwGrVscF83zWWipKA1oofgQiA==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.viajarbarato.com.br/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
