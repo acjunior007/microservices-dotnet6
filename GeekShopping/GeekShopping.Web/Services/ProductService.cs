@@ -38,7 +38,7 @@ namespace GeekShopping.Web.Services
 
         public async Task<ProductModel> UpdateProduct(ProductModel model)
         {
-            var response = await _httpClient.PutAsJson(BasePath, model);
+            var response = await _httpClient.PutAsJson($"{BasePath}/{model.Id}", model);
             if (response.IsSuccessStatusCode)
                 return await response.ReadContentAs<ProductModel>();
             else
