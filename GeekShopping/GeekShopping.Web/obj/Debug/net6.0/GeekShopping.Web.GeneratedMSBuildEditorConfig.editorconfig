@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Cursos/Udemy/AQUITETURA_MICROSERVICES_ASPNET6/microservices-dotnet6/GeekShopping/GeekShopping.Web/Views/Product/ProductDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Cursos/Udemy/AQUITETURA_MICROSERVICES_ASPNET6/microservices-dotnet6/GeekShopping/GeekShopping.Web/Views/Product/ProductIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0SW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
