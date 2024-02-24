@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.web\\views\\product\\productupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\product\\productupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDelete.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
-              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
-              "RelativeToolTip": "GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T01:06:20.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowEYAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T00:57:36.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductUpdate.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
-              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
-              "RelativeToolTip": "GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
-              "ViewState": "AQIAACwAAAAAAAAAAAAkwEMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T00:56:15.352Z",
-              "EditorCaption": ""
             }
           ]
         }
