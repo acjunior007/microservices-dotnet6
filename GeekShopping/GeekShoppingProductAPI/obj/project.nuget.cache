@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pnn2i108ro3aQktjHdd/tjDdY9TVl8sBKBTwjYNIIaKdKLqEiuw26DIi0HwOl8YP5eXPwOUgrvG1Xl8hTrMPTQ==",
+  "dgSpecHash": "gNm/DeeUix/YLu7+bRGdWDf94VZGOSe86gSGcge5uBwDNWwAHVoorSLi2inLFPSrvik3Ewx/O2pp00x7xwncmQ==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj",
   "expectedPackageFiles": [
@@ -44,12 +44,5 @@
     "C:\\Users\\junio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.viajarbarato.com.br/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

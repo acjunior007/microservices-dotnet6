@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshoppingproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|solutionrelative:geekshoppingproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.identityserver\\model\\context\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\model\\context\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.identityserver\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.identityserver\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Program.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Program.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:57:08.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShoppingProductAPI\\Program.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Program.cs",
+              "RelativeToolTip": "GeekShoppingProductAPI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:56:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Program.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Program.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:41:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:35:15.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:29:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Model\\Context\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Model\\Context\\ApplicationUser.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Model\\Context\\ApplicationUser.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Model\\Context\\ApplicationUser.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:25:31.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:24:43.08Z",
+              "EditorCaption": ""
             }
           ]
         }
