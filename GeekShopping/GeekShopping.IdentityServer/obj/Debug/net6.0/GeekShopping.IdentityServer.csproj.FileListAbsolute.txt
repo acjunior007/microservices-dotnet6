@@ -48,3 +48,5 @@ C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopp
 C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
+C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
+C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
