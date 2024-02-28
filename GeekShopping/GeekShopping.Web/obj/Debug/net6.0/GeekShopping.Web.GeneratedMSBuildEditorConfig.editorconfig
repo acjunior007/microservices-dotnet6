@@ -14,7 +14,7 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Cursos\Udemy\AQUITETURA_MICROSERVICES_ASPNET6\microservices-dotnet6\GeekShopping\GeekShopping.Web
 build_property._RazorSourceGeneratorDebug = 
 
