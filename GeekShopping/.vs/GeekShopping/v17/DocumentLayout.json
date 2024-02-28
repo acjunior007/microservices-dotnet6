@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55328FC8-046E-4DBE-ACB1-C6955F178C76}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshoppingproductapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|solutionrelative:geekshoppingproductapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshoppingproductapi\\utils\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|solutionrelative:geekshoppingproductapi\\utils\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.web\\utils\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1083676-51A2-4EB7-875A-825D886F1503}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\utils\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Program.cs",
-              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\Program.cs",
-              "RelativeToolTip": "GeekShopping.IdentityServer\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAD8AAAAbAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwEgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T18:10:03.206Z",
+              "WhenOpened": "2024-02-28T18:16:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GeekShoppingProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GeekShoppingProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:16:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Utils\\Role.cs",
+              "RelativeDocumentMoniker": "GeekShoppingProductAPI\\Utils\\Role.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Utils\\Role.cs",
+              "RelativeToolTip": "GeekShoppingProductAPI\\Utils\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:34:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Utils\\Role.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Utils\\Role.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.Web\\Utils\\Role.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Utils\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:30:30.95Z",
               "EditorCaption": ""
             }
           ]
