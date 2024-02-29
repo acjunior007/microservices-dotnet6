@@ -14,7 +14,8 @@
       },
       {
         "Name": "GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": ""
       }
     ]
   }
