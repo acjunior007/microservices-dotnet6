@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekShopping.CardAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2842f03f7965305c80b7dc524448aed7cddc53a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919d1ece1fc3a3d76b9d62d24469580e8f96ae84")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekShopping.CardAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekShopping.CardAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,5 +7,9 @@ namespace GeekShopping.CardAPI.Model.Context
 		public MySQLContext(DbContextOptions<MySQLContext> options) : base(options) { }
 
 		public DbSet<Product> Product { get; set; }
+
+		public DbSet<CardDetail> CardDetails { get; set; }
+
+		public DbSet<CardHeader> CardHeaders { get; set; }
 	}
 }

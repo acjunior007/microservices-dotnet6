@@ -1,11 +1,15 @@
-﻿using GeekShopping.CardAPI.Model.Base;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace GeekShopping.CardAPI.Model
 {
-	public class Product : BaseEntity
+	[Table("Product")]
+	public class Product
 	{
+		[Key, DatabaseGenerated(DatabaseGeneratedOption.None)]
+		[Column("Id")]
+		public long Id { get; set; }
+
 		[Column("Name")]
 		[Required]
 		[StringLength(150)]
