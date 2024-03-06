@@ -9,11 +9,11 @@ namespace GeekShopping.CardAPI.Model
 		public long CardHeaderId { get; set; }
 
 		[ForeignKey("CardHeaderId")]
-		public CardHeader CardHeader { get; set; }
+		public virtual CardHeader CardHeader { get; set; }
 
 		public long ProductId { get; set; }
 		[ForeignKey("ProductId")]
-		public Product Product { get; set; }
+		public virtual Product Product { get; set; }
 
 		[Column("Count")]
 		public int Count { get; set; }
