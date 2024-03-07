@@ -25,7 +25,19 @@ namespace GeekShopping.CardAPI.Repository
 
 		public async Task<bool> ClearCard(string userId)
 		{
-			throw new NotImplementedException();
+			var cardHeader = await _context.CardHeaders
+				.FirstOrDefaultAsync(c => c.UserId == userId);
+
+			if (cardHeader != null)
+			{
+
+				var cardDetails = _context.CardDetails.Where(c => c.CardHeaderId == cardHeader.Id);
+				_context.CardDetails.RemoveRange(cardDetails);
+				_context.CardHeaders.Remove(cardHeader);
+				await _context.SaveChangesAsync();
+				return true;
+			}
+			return false;
 		}
 
 		public async Task<CardVO> FindCardByUserId(string userId)
@@ -46,7 +58,7 @@ namespace GeekShopping.CardAPI.Repository
 
 		public async Task<bool> RemoveCoupon(string userId)
 		{
-
+			throw new NotImplementedException();
 		}
 
 		public async Task<bool> RemoveFromCard(long cardDetailsId)

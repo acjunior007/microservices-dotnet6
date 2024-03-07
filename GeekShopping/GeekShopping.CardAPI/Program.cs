@@ -1,6 +1,8 @@
 using AutoMapper;
 using GeekShopping.CardAPI.Config;
 using GeekShopping.CardAPI.Model.Context;
+using GeekShopping.CardAPI.Repository;
+using GeekShopping.CardAPI.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -76,6 +78,8 @@ builder.Services.AddDbContext<MySQLContext>(options =>
 
 IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
 builder.Services.AddSingleton(mapper);
+
+builder.Services.AddScoped<ICardRepository, CardRepository>();
 
 var app = builder.Build();
 
