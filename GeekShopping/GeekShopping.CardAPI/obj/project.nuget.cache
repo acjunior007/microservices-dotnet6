@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QtVslXdJC3lb1ka+B+Sl0ogeTc8MwMperLGTOYjkNAlWRayeoGqKdiIB9bkTNL3O2a2fIttvftulNuWF/JGCdQ==",
+  "dgSpecHash": "+lqIuoAaiJVLvWbbd1bHrB7rwANYcO3udihh+47wWIHmN2g49PLlJZ7OcXTsBDMhQoJ3QG7OG1c7MAf54h6Apg==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj",
   "expectedPackageFiles": [

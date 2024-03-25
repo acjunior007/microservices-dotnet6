@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2syD8QIao+k9k2vOhUUYjWjFVyJybtBg5w4JtGgxQPIXM8KjtvENi2sB5xZMaA5wDWt/B8QkQhgsABH4Qg4zw==",
+  "dgSpecHash": "Qvs2ESGHzjHKMWYWLUsTPijUxhd+wjRhJRRfcUC5OA4JP8LpI+1znpZYh+J0sT7IboZp6FiNj7c4TGgHMUiSmw==",
   "success": true,
   "projectFilePath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [

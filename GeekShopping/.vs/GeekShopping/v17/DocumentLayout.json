@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshoppingproductapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|solutionrelative:geekshoppingproductapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE4108ED-AC1C-4E72-A333-1E9768FAD6E3}|GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.cardapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4108ED-AC1C-4E72-A333-1E9768FAD6E3}|GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj|solutionrelative:geekshopping.cardapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE4108ED-AC1C-4E72-A333-1E9768FAD6E3}|GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.cardapi\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE4108ED-AC1C-4E72-A333-1E9768FAD6E3}|GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj|solutionrelative:geekshopping.cardapi\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshoppingproductapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F98CE8A-4377-4B52-8EF8-866129F57EC2}|GeekShoppingProductAPI\\GeekShoppingProductAPI.csproj|solutionrelative:geekshoppingproductapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4108ED-AC1C-4E72-A333-1E9768FAD6E3}|GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj|c:\\cursos\\udemy\\aquitetura_microservices_aspnet6\\microservices-dotnet6\\geekshopping\\geekshopping.cardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4108ED-AC1C-4E72-A333-1E9768FAD6E3}|GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj|solutionrelative:geekshopping.cardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +35,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.CardAPI\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CardAPI\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.CardAPI\\Controllers\\CardController.cs",
+              "RelativeToolTip": "GeekShopping.CardAPI\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:22:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.CardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CardAPI\\Program.cs",
+              "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.CardAPI\\Program.cs",
+              "RelativeToolTip": "GeekShopping.CardAPI\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAFEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:21:18.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "GeekShoppingProductAPI\\Repository\\ProductRepository.cs",
               "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShoppingProductAPI\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "GeekShoppingProductAPI\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAABAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:16:23.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T16:16:23.965Z"
             },
             {
               "$type": "Document",
@@ -45,10 +77,9 @@
               "RelativeDocumentMoniker": "GeekShopping.CardAPI\\Repository\\CardRepository.cs",
               "ToolTip": "C:\\Cursos\\Udemy\\AQUITETURA_MICROSERVICES_ASPNET6\\microservices-dotnet6\\GeekShopping\\GeekShopping.CardAPI\\Repository\\CardRepository.cs",
               "RelativeToolTip": "GeekShopping.CardAPI\\Repository\\CardRepository.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAowDoAAAAAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAMwFsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:15:43.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T16:15:43.786Z"
             }
           ]
         }

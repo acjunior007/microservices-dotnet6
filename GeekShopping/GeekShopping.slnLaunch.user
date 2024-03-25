@@ -16,6 +16,10 @@
         "Name": "GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
         "Action": "Start",
         "DebugTarget": ""
+      },
+      {
+        "Name": "GeekShopping.CardAPI\\GeekShopping.CardAPI.csproj",
+        "Action": "Start"
       }
     ]
   }
