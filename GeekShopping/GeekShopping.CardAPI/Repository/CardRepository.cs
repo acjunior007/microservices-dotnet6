@@ -120,7 +120,7 @@ namespace GeekShopping.CardAPI.Repository
 					p.CardHeaderId == cardHeader.Id);
 				if (cardDetail == null)
 				{
-					card.CardDetail.FirstOrDefault().CardHeaderId = card.CardHeader.Id;
+					card.CardDetail.FirstOrDefault().CardHeaderId = cardHeader.Id;
 					card.CardDetail.FirstOrDefault().Product = null;
 					_context.CardDetails.Add(card.CardDetail.FirstOrDefault());
 					await _context.SaveChangesAsync();
